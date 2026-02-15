@@ -9,18 +9,12 @@
       "download_url": "https://github.com/nlaiin/-7f92k-/releases/download/v1.0/x_y_gimbal.v2.glb"
     },
     {
-      "name": "specular_glb",
-      "filename": "specular_glb.glb",
+      "name": "i-robot obj",
+      "filename": "i-robot obj.glb",
       "format": ".glb",
-      "size_mb": 7.39,
-      "download_url": "https://github.com/nlaiin/-7f92k-/releases/download/v1.0/specular_glb.glb"
-    },
-    {
-      "name": "try7",
-      "filename": "try7.glb",
-      "format": ".glb",
-      "size_mb": 0.582,
-      "download_url": "https://github.com/nlaiin/-7f92k-/releases/download/v1.0/specular_glb.glb"
+      "size_mb": 137,
+      "download_url": "https://github.com/nlaiin/-7f92k-/releases/download/v1.0/i-robot.obj.glb"
     }
+  
   ]
 }
