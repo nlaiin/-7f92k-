@@ -1,5 +1,5 @@
 {
-  "count": 1,
+  "count": 3,
   "models": [
     {
       "name": "x_y_gimbal v2",
@@ -7,7 +7,20 @@
       "format": ".glb",
       "size_mb": 10.9,
       "download_url": "https://github.com/nlaiin/-7f92k-/releases/download/v1.0/x_y_gimbal.v2.glb"
+    },
+    {
+      "name": "specular_glb",
+      "filename": "specular_glb.glb",
+      "format": ".glb",
+      "size_mb": 7.39,
+      "download_url": "https://github.com/USERNAME/REPO/releases/download/VERSION/model2.glb"
+    },
+    {
+      "name": "try7",
+      "filename": "try7.glb",
+      "format": ".glb",
+      "size_mb": 0.582,
+      "download_url": "https://github.com/USERNAME/REPO/releases/download/VERSION/model3.glb"
     }
-    
   ]
 }
